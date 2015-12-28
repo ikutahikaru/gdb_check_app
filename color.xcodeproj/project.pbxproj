@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		65682F4A1C31542500BA8064 /* patio.png in Resources */ = {isa = PBXBuildFile; fileRef = 65682F491C31542500BA8064 /* patio.png */; };
 		65AC30231C2EDECC00C38AAE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65AC30221C2EDECC00C38AAE /* AppDelegate.swift */; };
 		65AC30251C2EDECC00C38AAE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65AC30241C2EDECC00C38AAE /* ViewController.swift */; };
 		65AC30281C2EDECC00C38AAE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65AC30261C2EDECC00C38AAE /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		65682F491C31542500BA8064 /* patio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = patio.png; path = ../../../../../Desktop/patio.png; sourceTree = "<group>"; };
 		65AC301F1C2EDECC00C38AAE /* color.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = color.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65AC30221C2EDECC00C38AAE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65AC30241C2EDECC00C38AAE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				65AC30241C2EDECC00C38AAE /* ViewController.swift */,
 				65AC30261C2EDECC00C38AAE /* Main.storyboard */,
 				65AC30291C2EDECC00C38AAE /* Assets.xcassets */,
+				65682F491C31542500BA8064 /* patio.png */,
 				65AC302B1C2EDECC00C38AAE /* LaunchScreen.storyboard */,
 				65AC302E1C2EDECC00C38AAE /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65682F4A1C31542500BA8064 /* patio.png in Resources */,
 				65AC302D1C2EDECC00C38AAE /* LaunchScreen.storyboard in Resources */,
 				65AC302A1C2EDECC00C38AAE /* Assets.xcassets in Resources */,
 				65AC30281C2EDECC00C38AAE /* Main.storyboard in Resources */,
@@ -285,6 +289,7 @@
 				65AC30331C2EDECC00C38AAE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
